@@ -1,0 +1,23 @@
+JUST LOG MODE, the files were not changed.
+Changing 'e' to '*.'
+[DIR ] root/level2c__
+=====> root/l*v*l2c__
+
+[DIR ] root\level2c__/level3AC
+=====> root\l*v*l2c__/l*v*l3AC
+
+[DIR ] root\level2c__/le_vel3B_xuxuo_
+=====> root\l*v*l2c__/l*_v*l3B_xuxuo_
+
+[FILE] root/Scraeensh_ot_20230213_11_315__9.png
+=====> root/Scra**nsh_ot_20230213_11_315__9.png
+
+[FILE] root\level2c__/Screenshot_20_230213_113238_.png
+=====> root\level2c__/Scr**nshot_20_230213_113238_.png
+
+[FILE] root\level2c__/Sc__r_c_eenshot_20230213_1133_08.png
+=====> root\level2c__/Sc__r_c_**nshot_20230213_1133_08.png
+
+[FILE] root\level2c__\level3AC/Sc_r_eenshot_20230213_112920.png
+=====> root\level2c__\level3AC/Sc_r_**nshot_20230213_112920.png
+
